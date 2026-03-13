@@ -2,7 +2,7 @@
 
 Terminal UI for browsing and deleting [Claude Code](https://docs.anthropic.com/en/docs/claude-code) conversation history.
 
-Claude Code stores every conversation as JSONL files under `~/.claude/projects/`. Over time these accumulate and eat disk space. This tool lets you browse, inspect, and bulk-delete them from a simple curses interface.
+Claude Code stores every conversation as JSONL files under `~/.claude/projects/`. Over time these accumulate and make it hard to find the conversations that actually matter. This tool lets you browse, inspect, and bulk-delete old chats so you can keep your history manageable.
 
 ## Screenshots
 
