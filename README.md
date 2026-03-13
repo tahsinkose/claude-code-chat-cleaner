@@ -8,11 +8,11 @@ Claude Code stores every conversation as JSONL files under `~/.claude/projects/`
 
 ### Project list
 
-![Project list view](mainpage.png)
+![Project list view](assets/mainpage.png)
 
 ### Chat list
 
-![Chat list view](inside-folder.png)
+![Chat list view](assets/inside-folder.png)
 
 ## Requirements
 
