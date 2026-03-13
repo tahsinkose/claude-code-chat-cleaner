@@ -52,7 +52,3 @@ All deletions require confirmation before proceeding.
 ## What gets deleted
 
 Each conversation consists of a `.jsonl` file and an optional companion directory (same name, no extension). Both are removed on deletion. The tool never touches `memory/` directories or `CLAUDE.md` files.
-
-## License
-
-MIT
